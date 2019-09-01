@@ -7,7 +7,7 @@ My friend wanted to open a restaurant or a cafe in this city, but he didn't know
 
 # 2. Data Sets and APIs
 ### Ho Chi Minh Neighborhoods Data
-List of districts, wards of Ho Chi Minh. I download from the following url: https://www.gso.gov.vn/dmhc2015/Default.aspx. After download and processI upload file csv to github https://github.com/lego2003/My-Assignment/blob/master/HoChiMinhCity.csv.
+List of districts, wards of Ho Chi Minh. I downloaded from the following url: https://www.gso.gov.vn/dmhc2015/Default.aspx. After downloading and processing, I uploaded file csv to github https://github.com/lego2003/My-Assignment/blob/master/HoChiMinhCity.csv.
 ### Google map API
 This project would use Google Map API Geocoder to get the Latitude and Longitude of each area.
 ### Foursquare API
